@@ -44,7 +44,7 @@ Beyond code, I won the **SIH internal hackathon** and a **speech competition**, 
 **DSA:** Arrays, Linked List, Recursion, Backtracking, Sorting, Binary Search | 150+ problems solved
 
 ---
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 ### 1. AI Ledger
 **[Ek line mein batao ye kya karta hai]**
@@ -86,7 +86,7 @@ Beyond code, I won the **SIH internal hackathon** and a **speech competition**, 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_REPO_LINK)
 [![Live](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](YOUR_LIVE_LINK)
 
----
+--- -->
 ## 🌐 Profiles
 
 **Coding Profiles**
@@ -103,12 +103,19 @@ Beyond code, I won the **SIH internal hackathon** and a **speech competition**, 
 ---
 ## 📊 GitHub Stats
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Dhruvyadav27&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvyadav27&layout=compact&theme=tokyonight" height="180" alt="Top Languages" /></p>
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=Dhruvyadav27&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dhruvyadav27&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+</p>
 
-<p align="left"><img src="https://streak-stats.demolab.com/?user=Dhruvyadav27&theme=tokyonight" alt="GitHub Streak" /></p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Dhruvyadav27&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
+<!--
 ## 🏆 Trophies
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Dhruvyadav27&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" /></p>
-
----
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvyadav27&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+</p>
+-->
