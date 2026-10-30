@@ -103,12 +103,12 @@ Beyond code, I won the **SIH internal hackathon** and a **speech competition**, 
 ---
 ## 📊 GitHub Stats
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180" alt="Top Languages" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Dhruvyadav27&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvyadav27&layout=compact&theme=tokyonight" height="180" alt="Top Languages" /></p>
 
-<p align="left"><img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" /></p>
+<p align="left"><img src="https://streak-stats.demolab.com/?user=Dhruvyadav27&theme=tokyonight" alt="GitHub Streak" /></p>
 
 ## 🏆 Trophies
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" /></p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Dhruvyadav27&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" /></p>
 
 ---
