@@ -72,21 +72,20 @@ Beyond code, I won the **SIH internal hackathon** and a **speech competition**, 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_REPO_LINK)
 [![Live](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](YOUR_LIVE_LINK)
 
----
+--- -->
 
 ### 3. Hospital Management
-**[Ek line mein batao ye kya karta hai]**
+**Secure REST API backend for managing patients, doctors and appointments, with JWT/OAuth2 login and role-based access control.**
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,postgres" height="40" alt="Tech" />
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- Role-based access (Admin / Doctor / Patient) with JWT and Google/GitHub OAuth2 login
+- Appointment booking, doctor onboarding and paginated patient management
+- Layered architecture with Spring Data JPA, custom queries and centralised error handling
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_REPO_LINK)
-[![Live](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](YOUR_LIVE_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruvyadav27/hospital-management-system)
 
---- -->
+---
 ## 🌐 Profiles
 
 **Coding Profiles**
