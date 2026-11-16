@@ -90,7 +90,7 @@ Beyond code, I won the **SIH internal hackathon** and a **speech competition**, 
 
 **Coding Profiles**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_LINK) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_GFG_LINK) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_CODECHEF_LINK) [![Codolio](https://img.shields.io/badge/Codolio-6C47FF?style=for-the-badge)](YOUR_CODOLIO_LINK) [![Hyperskill](https://img.shields.io/badge/Hyperskill-0F7BFF?style=for-the-badge)](YOUR_HYPERSKILL_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhruvyadav27/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](YOUR_GFG_LINK) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_CODECHEF_LINK) [![Codolio](https://img.shields.io/badge/Codolio-6C47FF?style=for-the-badge)](YOUR_CODOLIO_LINK) [![Hyperskill](https://img.shields.io/badge/Hyperskill-0F7BFF?style=for-the-badge)](YOUR_HYPERSKILL_LINK)
 
 ---
 ## 🎓 Certifications
